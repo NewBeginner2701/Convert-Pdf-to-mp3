@@ -1,4 +1,6 @@
 # Write a program to convert pdf file into mp3
+# By @NewBeginners2701
+
 import pyttsx3  # You have to import the pyttsx3 from terminal using pip install pyttsx3
 import PyPDF2   # You have to import the PyPDF2 from terminal using pip install PyPDF2
 book = open('java.pdf', 'rb') # You have to mention the name of the PDF file in "  "
